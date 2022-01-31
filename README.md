@@ -1,2 +1,2 @@
 # disassembler
-Simulated a disassembler that translates machine language to assembly language
+A program that simulates a disassembler that translates machine language to assembly language
